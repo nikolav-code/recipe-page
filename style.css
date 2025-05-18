@@ -91,6 +91,7 @@ li::marker{
 }
 h2{
     font-family: YoungSerif;
+    font-weight: 400;
     font-size: 30px;
     color: hsl(14, 45%, 36%);
 }
